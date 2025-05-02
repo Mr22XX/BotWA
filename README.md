@@ -13,7 +13,7 @@ Bot ini dibuat menggunakan [`@open-wa/wa-automate`](https://github.com/open-wa/w
 ### 1. Clone Repositori
 
 ```bash
-    git clone https://github.com/namauser/whatsapp-image-bot.git
+    git clone https://github.com/Mr22XX/BotWA.git
     cd whatsapp-image-bot
 
 ```
